@@ -1,0 +1,5 @@
+
+
+1. create data set=>dataSet
+2. Train the recognizer=>trainer
+3. Detector
